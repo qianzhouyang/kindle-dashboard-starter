@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.runtime/
+.test-runtime/
+.env
+.env.*
+!.env.example
+device.json
+console_config.json
+weather_cache.json
+uploads/
+*.log
+*.tmp
+scripts/network.conf
+dist/

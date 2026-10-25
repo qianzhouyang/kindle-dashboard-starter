@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "Dashboard",
+      "priority": 1,
+      "items": [
+        {
+          "name": "启动自动看板 (Auto Dashboard)",
+          "action": "./bin/start-auto.sh",
+          "exitmenu": true
+        },
+        {
+          "name": "显示缓存看板 (Offline)",
+          "action": "./bin/start.sh",
+          "exitmenu": true
+        },
+        {
+          "name": "恢复阅读 (Restore Kindle)",
+          "action": "./bin/stop.sh",
+          "exitmenu": true
+        }
+      ]
+    }
+  ]
+}

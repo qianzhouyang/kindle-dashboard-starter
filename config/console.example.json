@@ -1,0 +1,16 @@
+{
+  "template": "cat_office",
+  "quota": 85,
+  "quote": "“别催了，爪子都敲出火星了。”",
+  "city": "示例城市",
+  "weather": {
+    "mode": "demo",
+    "latitude": null,
+    "longitude": null
+  },
+  "rotation": 270,
+  "battery": "未读取",
+  "frontlight": 2,
+  "last_published": "尚未发布",
+  "customizations": {}
+}

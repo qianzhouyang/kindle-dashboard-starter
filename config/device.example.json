@@ -1,0 +1,8 @@
+{
+  "enabled": false,
+  "host": "YOUR_KINDLE_USB_IP",
+  "user": "root",
+  "port": 22,
+  "identity_file": "~/.ssh/kindle_dashboard_ed25519",
+  "known_hosts_file": "~/.ssh/kindle_dashboard_known_hosts"
+}
